@@ -11,12 +11,14 @@ A comprehensive Android application for managing personal expenses, tracking bil
   - Real-time expense overview
  ![shared image](https://github.com/user-attachments/assets/ca7a727f-3d1d-4fa1-b8c7-13633bf02f23)
 
-- **Visualization**
-  - Bar chart visualization for expense analysis
-  - Pie chart for category-wise expense distribution
-  - Monthly expense trends
-![shared image (1)](https://github.com/user-attachments/assets/23cc1b55-0eae-409f-88b4-dbb8bef349de)
-![shared image (2)](https://github.com/user-attachments/assets/5c41b90b-568f-42b4-aa08-81668f331ec7)
+### Visualizations
+
+| Bar Chart Visualization | Category-wise Distribution |
+| :---: | :---: |
+| ![Bar chart visualization for expense analysis](https://github.com/user-attachments/assets/23cc1b55-0eae-409f-88b4-dbb8bef349de) | ![Pie chart for category-wise expense distribution](https://github.com/user-attachments/assets/5c41b90b-568f-42b4-aa08-81668f331ec7) |
+
+*   Monthly expense trends
+
 
 
 - **Bill Splitting**
