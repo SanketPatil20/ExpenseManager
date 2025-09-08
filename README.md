@@ -9,6 +9,7 @@ A comprehensive Android application for managing personal expenses, tracking bil
   - Categorize expenses (Food, Transport, Entertainment, Shopping, Health, etc.)
   - Track monthly income and expenses
   - Real-time expense overview
+    
  ![shared image](https://github.com/user-attachments/assets/ca7a727f-3d1d-4fa1-b8c7-13633bf02f23)
 
 ### Visualizations
@@ -25,6 +26,7 @@ A comprehensive Android application for managing personal expenses, tracking bil
   - Split bills among multiple members
   - Track individual shares and balances
   - Smart bill settlement suggestions
+    
 ![shared image (3)](https://github.com/user-attachments/assets/6c85beeb-50bb-4a97-adbd-7b72de103543)
 
 
